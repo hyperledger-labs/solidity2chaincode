@@ -1,0 +1,31 @@
+{
+  "name": "soliditytojavascripttranslatorcode",
+  "version": "1.0.0",
+  "description": "It takes input of Ethereum smart contract in Solidity Language and converts it to the equivalent Hyperledger Fabric Chaincode in Javascript Language",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadZafarITU/SolidityToJavascriptTranslatorCode.git"
+  },
+  "author": "Ahmad Zafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadZafarITU/SolidityToJavascriptTranslatorCode/issues"
+  },
+  "homepage": "https://github.com/AhmadZafarITU/SolidityToJavascriptTranslatorCode#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node": "^10.10.0",
+    "parse-filepath": "^1.0.2",
+    "protobufjs": "^6.8.8",
+    "readline-sync": "^1.4.9",
+    "solidity-parser-antlr": "^0.2.15"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}

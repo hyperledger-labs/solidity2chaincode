@@ -1,0 +1,9 @@
+{
+	"chaincodeName": "EIP20",
+	"args": [
+	  "100",
+	  "test",
+	  "4",
+	  "SBX"
+	]
+  }
