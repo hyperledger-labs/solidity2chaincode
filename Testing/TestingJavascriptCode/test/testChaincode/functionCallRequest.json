@@ -1,0 +1,6 @@
+{
+	"chaincodeName": "EIP20",
+	"functionName": "balanceOf",
+	"msg.value" : "0",
+	"args": [ { "value": "account2" , "type": "address"}]
+}

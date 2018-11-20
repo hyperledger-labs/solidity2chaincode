@@ -1,0 +1,1 @@
+Make sure balance.js chaincode is already running on Fabric
