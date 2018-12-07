@@ -28,7 +28,7 @@ Make sure you have already installed node on your computer.
 
 Step 1: Clone the repository
 
-`git clone https://github.com/AhmadZafarITU/sol2fab.git`
+`git clone https://github.com/hyperledger-labs/solidity2chaincode.git`
 
 
 Step 2: Install dependent packages
@@ -60,7 +60,7 @@ Step 4:
 
 Follow instructions on this page to test invocations of EIP20 contract in Ethereum Remix and translated chaincode.
 
-https://github.com/AhmadZafarITU/sol2fab/blob/master/Testing/TestingExamplesParallelCommands/EIP20.md
+https://github.com/hyperledger-labs/solidity2chaincode/blob/master/Testing/TestingExamplesParallelCommands/EIP20.md
 
 # Fabric version supported
 
